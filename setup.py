@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Einsteinium",
-    version="0.0.2",
+    version="0.0.3",
     author="Deekshan Saravanan",
     author_email="dsstudios.dev@gmail.com",
     description="Python ANSI Shortcut",
