@@ -10,7 +10,6 @@ setuptools.setup(
     author_email="dsstudios.dev@gmail.com",
     description="Python ANSI Shortcut",
     long_description=long_description,
-    long_description_content_type="text/markdown",
     url="https://github.com/dssecret/Einsteinium",
     packages=setuptools.find_packages(),
     license="Apache Software License",
